@@ -4,7 +4,7 @@ import cv2
 import os
 from scipy import ndimage
 
-# 创建一个黑色正方体图形
+# 图像数据就是矩阵
 # img = np.zeros((3,3),dtype = np.uint8)
 # print(img)
 # img= cv2.cvtColor(img,cv2.COLOR_GRAY2RGB)
